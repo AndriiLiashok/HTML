@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.grup{
+    display: flex;
+    justify-content: space-around;
+}
+.services{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background: #fafafa;
+}
+.border{
+
+    border-radius: 1px;
+    box-shadow: 7px 7px 5px rgba(0,0,0,0.6);
+}
+.logo{
+    height: 100px;
+    font-size: 30px;
+    color: silver;
+}
+.service{
+    color: brown;
+}
+
+p, h2{
+    text-align: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 115px;
+    height: 30px;
+    margin: 4%;
+    background: #3b3be8;
+}

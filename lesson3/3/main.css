@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border{
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.container{
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+}
+.h150{
+    height: 150px;
+}
+.background-silver{
+    background: silver;
+}
+
+.m1{
+    margin: 1%;
+}
+.b{
+    width: 600px;
+}
+.flex{
+    display: flex;
+}
+.w200{
+    width: 200px;
+}
+.f{
+    width: 300px;
+}

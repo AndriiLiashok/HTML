@@ -1,0 +1,35 @@
+/*body{*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    background: aliceblue;
+}
+.widget{
+    height: 200px;
+    background: #3b3be8;
+    margin: 2%;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bigwidget{
+    display: flex;
+}
+
+.widgets{
+    height: 250px;
+    width: 300px;
+    background:#3b3be8;
+    margin: 2%;
+}
+.content{
+    height: 200px;
+    background: #3b3be8;
+    margin: 2%;
+}
