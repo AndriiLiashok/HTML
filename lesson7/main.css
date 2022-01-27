@@ -395,6 +395,7 @@
     line-height: 28px;
     color: #375361;
 }
+
 .targeting_text_reveal p {
     width: 563px;
     padding-top: 36px;
@@ -406,25 +407,28 @@
 .targeting_text_reveal img {
     padding-top: 35px;
 }
-.hr_sil{
+
+.hr_sil {
     height: 2px;
     background: #C3CACD;
     margin-top: 22.7px;
 }
-.mb94{
+
+.mb94 {
     margin-bottom: 94px;
 }
 
-.card_integrations{
+.card_integrations {
     display: flex;
     justify-content: space-between;
     margin-top: 160px;
 }
-.card_integrations_text{
+
+.card_integrations_text {
     margin-left: 148px;
 }
 
-.uppercase{
+.uppercase {
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 1.4px;
@@ -432,7 +436,7 @@
     color: #375361;
 }
 
-.card_integrations_text h2{
+.card_integrations_text h2 {
     padding-top: 15px;
     width: 669px;
     font-size: 34px;
@@ -441,10 +445,217 @@
 
     color: #0B2330;
 }
-p{
+
+.card_integrations_text p {
     padding-top: 37px;
     width: 667px;
     font-size: 17px;
     line-height: 28px;
     color: #375361;
+}
+
+.card_integrations_text button {
+    margin-top: 36px;
+    height: 54px;
+    width: 208px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0B2330;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.case {
+    max-width: 1376px;
+    margin: 240px auto 0;
+    display: flex;
+}
+
+.card_case_study {
+    width: 582px;
+    background: #F2EDE7;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.card_case_developer {
+    width: 794px;
+    background: #F9C600;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.card_case_text {
+    margin-top: 80px;
+    margin-left: 116px;
+    height: 584px;
+}
+
+.card_case_text h3 {
+    padding-top: 14px;
+    width: 314px;
+    font-size: 24px;
+    line-height: 32px;
+    color: #0B2330;
+}
+
+.card_case_text > p {
+    width: 325px;
+    padding-top: 27px;
+    font-size: 17px;
+    line-height: 28px;
+    color: #0B2330;
+
+}
+
+.card_case_text button {
+    margin-top: 36px;
+    width: 140px;
+    height: 54px;
+    font-size: 17px;
+    line-height: 28px;
+    color: #0B2330;
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.card_case_text h2 {
+    width: 557px;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #000000;
+}
+
+.face {
+    display: flex;
+    margin-top: 81px;
+}
+
+.face_text {
+    margin-left: 24px;
+    margin-top: 18px;
+}
+
+.face_text > h6 {
+    font-size: 16px;
+    line-height: 24px;
+    color: #0B2330;
+}
+
+.face_text > p {
+    font-size: 17px;
+    line-height: 28px;
+    color: #2F3F48;
+}
+
+footer {
+    background: #0B2330;
+}
+
+.footer_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 46px;
+}
+
+.footer_text h3 {
+    margin-top: 52px;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: #FFFFFF;
+}
+
+.footer_text h2 {
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: #FFFFFF;
+}
+
+.footer_text p {
+    margin-top: 31px;
+    text-align: center;
+    width: 642px;
+    font-size: 17px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.footer_text button {
+    margin-top: 36px;
+    margin-bottom: 95px;
+    width: 163px;
+    height: 54px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #0B2330;
+}
+
+.footer_hr{
+    background: #375361;
+    height: 1px;
+    width: 1376px;
+}
+.footer_wrapper{
+    margin-top: 80px;
+    margin-left: 32px;
+    display: flex;
+    align-items: flex-start;
+}
+.footer_list{
+    margin-left: 110px;
+}
+.footer_lists{
+    display: flex;
+}
+
+.footer_list h4{
+    width: 126px;
+    margin-top: 14px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #94A0A4;
+}
+
+.footer_list h5{
+    font-size: 16px;
+    line-height: 24px;
+    color: #F9C600;
+
+}
+.footer_list h6{
+    margin-top: 14px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #94A0A4;
+}
+
+.social_network{
+    display: flex;
+    margin-left: 268px;
+    margin-top: 69px;
+
+ }
+
+.social_network h6{
+    font-size: 14px;
+    line-height: 20px;
+    color: #94A0A4;
+}
+
+.social_networks{
+    margin-left: 545px;
+    margin-bottom: 220px;
+}
+.social_networks img{
+    margin-left: 24px;
 }
